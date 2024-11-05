@@ -1,0 +1,6 @@
+selenium
+pytest
+python-dotenv
+pytest-html
+pyclean
+allure-pytest
